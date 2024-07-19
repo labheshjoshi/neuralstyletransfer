@@ -3,7 +3,7 @@
 Neural style transfer is an optimization technique used to take three images, a content image, a style reference image (such as an artwork by a famous painter), and the input image you want to style -- and blend them together such that the input image is transformed to look like the content image, but “painted” in the style of the style image.
 For example, let’s take an image of this turtle and Katsushika Hokusai's The Great Wave off Kanagawa:
 
-Drawing Drawing
+
 ![image](https://github.com/user-attachments/assets/6b7c820f-3c7d-487b-9693-b2366e029423)
 
 ![image](https://github.com/user-attachments/assets/66d7ae65-c83f-4f10-8fa6-a12daceed947)
