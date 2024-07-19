@@ -6,6 +6,22 @@ For example, let’s take an image of this turtle and Katsushika Hokusai's The G
 Drawing Drawing
 ![image](https://github.com/user-attachments/assets/6b7c820f-3c7d-487b-9693-b2366e029423)
 
+![image](https://github.com/user-attachments/assets/66d7ae65-c83f-4f10-8fa6-a12daceed947)
+
+Image of Green Sea Turtle -By P.Lindgren [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons
+
+Now how would it look like if Hokusai decided to paint the picture of this Turtle exclusively with this style? Something like this?
+
+![image](https://github.com/user-attachments/assets/fd8fd2f9-7b1c-4bbd-83fc-54624a1fda3e)
+
+
+
+
+
+
+
+
+
 
 
 Now how would it look like if Hokusai decided to paint the picture of this Turtle exclusively with this style? Something like this?
